@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
 def cadastrar(nomes):
-	print('Digite um nome : ')
+	print('Digite seu nome : ')
 	nome = input()
 	nomes.append(nome)
 
